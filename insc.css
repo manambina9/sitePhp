@@ -1,0 +1,99 @@
+header{
+    border-radius: 20px;
+    word-spacing: 2px;
+    margin-left: 20px;
+    margin-right: 50px;
+    margin-top: 10px;
+    font-size: 20px;
+    border-bottom: 5px black solid;
+  }
+ header img{
+     margin-left: 100px;
+     margin-top: 20px;
+  }
+ header a{
+    flex-wrap: wrap;
+    text-align: center;
+    align-items: center;
+    text-decoration: none;
+ }
+ header input{
+    margin-left: 80px;
+    text-align: center;
+    align-items: center;
+    color: blue;
+    font-size: 20px;
+ }
+ header button{
+    margin-left: -8px;
+    color: rgb(151, 204, 213);
+    background-color: rgb(81, 99, 149);
+    font-size: 20px;
+ }
+ header .lien{
+    margin-left: 450px;
+    word-spacing: 10px;
+    font-family: 'Times New Roman', Times, serif;
+ }
+ .lien:hover{
+    color: red;
+ }
+ header .ins{
+    margin-left: 70px;
+    
+ }
+
+ .vat{
+    background: url('image_header_2.png') no-repeat;
+ }
+
+ .main{
+    margin-top: 50px;
+    align-items: center;
+    text-align: center;
+    border : 5px solid rgb(73, 3, 235) ;
+    margin-left: 35%;
+    margin-right: 35%;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(69, 95, 93);
+    border-radius: 20px;
+ }
+ .main p{
+    font-size: 20px;
+ }
+
+ .main img{
+    margin-top: 30px;
+    border: solid 3px blue;
+    border-radius: 20px;
+    background-color: transparent;
+ }
+ .main label{
+    color: rgb(217, 18, 243);
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: double;
+ }
+ .main option{
+    margin-top: -5px;
+ }
+ .main input{
+    font-size: 18px;
+    border-radius: 10px;
+ }
+ .main button{
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    cursor: pointer;
+    border-radius: 2px ;
+    background-color: aquamarine;
+ }
+
+ .main button strong{
+    font-size: 20px;
+ }
+.main em{
+    font-size: 15px;
+    margin-top: -20px;
+    text-decoration: none;
+}

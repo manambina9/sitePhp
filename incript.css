@@ -1,0 +1,150 @@
+body{
+    margin: 0;
+    padding: 0;
+    margin-top: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+
+header{
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: black;
+    font-size: 25px;
+    text-align: center;
+    align-items: center ;
+    display: flex;
+    border: solid black 15px;
+    border-radius: 20px;
+}
+header .logo{
+    margin-left: 20px;
+    font-size: 35px;
+}
+
+header .logo strong{
+    color: aliceblue;
+    font-size: 30px;
+}
+header .logo em{
+    color: aqua;
+    font-size: 30px;
+}
+header .menu{
+    margin-left: 500px;
+    word-spacing: 30px;
+    text-decoration: none;
+}
+
+header .res button{
+    background-color: aqua;
+    font-size: 15px;
+    border-radius: 10px;
+    margin-left: 500px;
+}
+
+header .res strong{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.body .en{
+    margin-top: 35px;
+    font-size: 30px;
+    background-color: black;
+    border-radius: 30px;
+}
+
+.body .en strong{
+    color: aliceblue;
+}
+
+.body .en em{
+    color: aqua;
+}
+
+.body{
+    align-items: center;
+    text-align: center;
+    margin-top: 100px;
+    border: solid black 10px;
+    margin-left: 750px;
+    margin-right: 750px;
+    border-radius: 10px
+}
+
+.body .nom{margin-top: 20px;}.body .mail{margin-top: 20px;}.body .age{margin-top: 20px;}.body .mdp{margin-top: 20px;}.body .rmdp{margin-top: 20px;}.body .insc{margin-top: 30px;}
+
+.body .insc button{
+    font-size: 20px;
+}
+
+.body .ex{
+    font-size: 12px;
+    color: rgba(2, 13, 24, 0.651);
+}
+
+.body input{
+    font-size: 20px
+}
+
+.body ::placeholder{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    align-items: center;
+}
+
+.body .insc strong{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px
+}
+
+.body .insc button{
+    font-size: 10px
+}
+
+footer{
+    margin-top: 70px;
+}
+footer span{
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 300px;
+ }
+ footer .foot{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 50px;
+    background-color: rgb(9, 78, 78);
+    margin-left: -80px;
+    margin-top: 20px;
+ }
+ footer .foot .acces{
+    margin-left: 400px;
+ }
+ footer .foot .propos{
+    margin-left: 200px;
+ }
+ footer .foot .plus{
+    margin-left: 100px;
+ }
+ footer .foot h3{
+    color: red;
+    font-size: 15px;
+ }
+ .fo strong{
+    color: red;
+    margin-left: 5%;
+ }
+.copy{
+    font-size: 20px;
+    margin-top: -30px;
+}
+footer .foot p{
+    font-size: 15px;
+}
